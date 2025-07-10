@@ -2,6 +2,9 @@
 
 This project predicts the Fire Weather Index (FWI) for Algerian forests using a machine learning model. It includes a Flask web application for user interaction and model inference.
 
+# Live server link : https://forest-fire-ydrp.on
+# you can access it through this link https://forest-fire-ydrp.onrender.com/predictdata
+
 ## Project Structure
 
 ```
